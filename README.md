@@ -1,10 +1,10 @@
-Test task: Swing
+**Test task: Swing**
 
 
-Compile:
+*Compile:*
 javac -d ./bin ./testtask/*.java
 
-Run:
+*Run:*
 cd ./bin
 java testtask.TestApplication
 
